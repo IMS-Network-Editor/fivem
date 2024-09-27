@@ -4,9 +4,9 @@
   "main": "index.js",
   "license": "PROPRIETARY",
   "dependencies": {
-    "recursive-readdir": "^2.2.2",
-    "string.prototype.replaceall": "^1.0.5",
-    "typedoc": "^0.20.36",
-    "typescript": "^4.2.4"
+    "recursive-readdir": "^2.2.3",
+    "string.prototype.replaceall": "^1.0.7",
+    "typedoc": "^0.23.24",
+    "typescript": "^4.9.4"
   }
 }
